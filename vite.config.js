@@ -8,4 +8,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    base: '/EcoLifeSolutions/', // Replace with your GitHub repo name
 });
